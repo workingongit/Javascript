@@ -18,14 +18,15 @@ __Type Coersion__
 var firstName = 'Rakesh';
 var lastName = 'Singh';
 var age = 28;
-console.log(firstName + lastName + age);
-```  
+console.log(firstName + ' ' + lastName + ' ' + age);
+```    
 __Output__
 ```
 Rakesh Singh 28  
 ```  
 
-So age which is of __number__ datatype is converted to __string__ datatype this is known as __type coersion__
+So age which is of __number__ datatype is converted to __string__ datatype this is known as __type coersion__  
+
 Code blocks
 ```
 console.log("Hello World");
