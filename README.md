@@ -27,6 +27,20 @@ Rakesh Singh 28
 
 So age which is of __number__ datatype is converted to __string__ datatype this is known as __type coersion__  
 
+__Variable Mutation__
+```
+var firstName = 'Ramesh';
+var lastName = 'Rao';
+var age = twenty eight;
+
+alert(firstName + ' ' + lastName + ' is' + age + ' old');
+
+var age = 28;
+
+var lastName = prompt('What is his last Name');
+console.log(firtName + ' ' + lastName + ' is' + age + ' old');
+```  
+
 Code blocks
 ```
 console.log("Hello World");
