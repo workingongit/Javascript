@@ -31,14 +31,14 @@ __Variable Mutation__
 ```
 var firstName = 'Ramesh';
 var lastName = 'Rao';
-var age = twenty eight;
+var age = 'twenty eight';
 
-alert(firstName + ' ' + lastName + ' is' + age + ' old');
+alert(firstName + ' ' + lastName + ' is ' + age + ' old');
 
 var age = 28;
 
 var lastName = prompt('What is his last Name');
-console.log(firtName + ' ' + lastName + ' is' + age + ' old');
+console.log(firstName + ' ' + lastName + ' is ' + age + ' old');
 ```  
 
 Code blocks
