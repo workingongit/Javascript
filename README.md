@@ -8,7 +8,7 @@
 > 4. Undefined :- variable that does not have value yet  
 > 5. Null :- non existent  
 
-__Javascript__ has __dynamic typing__ which means datatypes are automatically assigned to a variable
+__Javascript__ has __dynamic typing__ which means datatypes are automatically assigned to a variable  
 Inline `code`
 
 Code blocks
