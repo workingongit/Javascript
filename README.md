@@ -1,7 +1,14 @@
 # Javascript
-## 1. Basics of Javascript
-This section will consists of basics of _javascript_ and its __functionality__
 
+## Different Datatypes in Javascript
+
+> 1. Number :- Floating point number, decimal and integer  
+> 2. String :- Sequence of character  
+> 3. Boolean :- true or false  
+> 4. Undefined :- variable that does not have value yet  
+> 5. Null :- non existent  
+
+__Javascript__ has __dynamic typing__ which means datatypes are automatically assigned to a variable
 Inline `code`
 
 Code blocks
